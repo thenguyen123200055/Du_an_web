@@ -1,6 +1,6 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <footer class="container">
-            <strong>&copy; 2024 - Tran Quang Nha - 2321160040  </strong>
+            <strong>&copy; 2024 - Le The Nguyen -2321160075   </strong>
         </footer>
 
         <!-- Optional JavaScript -->
